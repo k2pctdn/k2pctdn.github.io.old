@@ -1,5 +1,7 @@
 ---
 permalink: /about/
+title: "About"
+excerpt: "Just another About me page."
 ---
 
 Hello there! I am just another ordinary person and I am passionate about sharing my knowledge and experiences with others. I believe that everyone has something valuable to contribute, and I love to write about the things that interest me the most.
