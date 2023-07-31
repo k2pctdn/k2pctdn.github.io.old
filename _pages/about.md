@@ -1,7 +1,5 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Just another About me page"
 ---
 
 # About me
