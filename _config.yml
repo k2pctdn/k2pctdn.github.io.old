@@ -299,6 +299,3 @@ defaults:
       author_profile: true
 
 include: ["_pages"]
-
-mathjax: true
-mathjax_autoNumber: true
